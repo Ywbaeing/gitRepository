@@ -1,2 +1,1 @@
-# gitRepository
-A gitRepository for AI painting
+在这个仓库中测试AI绘画。
